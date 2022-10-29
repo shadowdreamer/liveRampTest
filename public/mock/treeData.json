@@ -1,0 +1,65 @@
+[
+  {
+    "name":"MY DATA",
+    "children":[
+      {
+        "name":"floder1",
+        "children":[
+          "Gender",
+          "Age",
+          "Education"
+        ]
+      },
+      {
+        "name":"floder2",
+        "children":[
+          "Gender",
+          "Age",
+          "Education"
+        ]
+      },
+      {
+        "name":"Test DATA2",
+        "children":[
+          {
+            "name":"Test1",
+            "children":[
+              "Gender",
+              "Age",
+              "Education"
+            ]
+          },
+          {
+            "name":"Test5",
+            "children":[
+              "Gender",
+              "Age",
+              "Education"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name":"MY DATA2",
+    "children":[
+      {
+        "name":"floder3",
+        "children":[
+          "Gender",
+          "Age",
+          "Education"
+        ]
+      },
+      {
+        "name":"floder4",
+        "children":[
+          "Gender",
+          "Age",
+          "Education"
+        ]
+      }
+    ]
+  }
+]
